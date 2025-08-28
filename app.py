@@ -86,7 +86,7 @@ def main():
         st.markdown(
         """
         <h1 style='display: inline-block; vertical-align: middle; padding-top: 50px;'>
-        Piramal Consumer Healthcare Chatbot
+        PDFs and Wblinks QnA Chatbot based on Local model
         </h1>
         """,
         unsafe_allow_html=True
